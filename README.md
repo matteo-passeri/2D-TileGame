@@ -1,5 +1,5 @@
 # 2D-TileGame
-2D Tile Game (Java exercise)
+2D TileGame (Java exercise)
 -----
 * World load with text via numbers
 * Inventory system (the player can get items breaking tree and rocks)
