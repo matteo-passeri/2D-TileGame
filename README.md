@@ -1,4 +1,4 @@
-# 2D-Tile-Game
+# 2D-TileGame
 2D Tile Game (Java exercise)
 -----
 * World load with text via numbers
